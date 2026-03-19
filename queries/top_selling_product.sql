@@ -1,0 +1,11 @@
+-- SELECT 
+--     p.ProductName,
+--     SUM(td.Quantity) AS Total_Quantity_Sold
+-- FROM Inventory_Transaction it
+-- JOIN Transaction_Detail td 
+--     ON it.TransactionID = td.TransactionID
+-- JOIN Product p 
+--     ON td.ProductID = p.ProductID
+-- WHERE it.TransactionType = 'OUT'
+-- GROUP BY p.ProductName
+-- ORDER BY Total_Quantity_Sold DESC;

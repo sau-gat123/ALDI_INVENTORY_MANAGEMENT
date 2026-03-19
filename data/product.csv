@@ -1,0 +1,11 @@
+ProductID,SKU,ProductName,UnitPrice,ExpirationDate,Category
+11,MILK-2L-101,Whole Milk 2L,4.99,2026-05-01,Dairy
+12,BREAD-MLT-101,Multigrain Bread,3.89,2026-04-20,Bakery
+13,APPLE-GRN-101,Green Apples (1 lb),2.19,2026-04-25,Produce
+14,EGGS-24-101,Free Range Eggs (24ct),7.25,2026-05-12,Dairy
+15,CHICK-WING-101,Chicken Wings (1 lb),6.49,2026-04-30,Meat
+16,RICE-10LB-101,Long Grain Rice 10lb,12.49,2027-03-01,Grains
+17,JUICE-APL-101,Apple Juice 1L,3.99,2026-05-08,Beverages
+18,YOG-BLU-101,Blueberry Yogurt 6oz,1.49,2026-04-20,Dairy
+19,FROZ-VEG-101,Frozen Veggie Pizza,8.49,2026-09-05,Frozen
+20,FLOUR-5KG-101,All Purpose Flour 5kg,9.89,2027-07-15,Baking

@@ -8,7 +8,7 @@ The goal is to simulate how a high-volume retailer can transition from manual tr
 
 ---
 
-## 🎯 Objectives
+ 🎯 Objectives
 
 - Design a **normalized relational database (3NF)**
 - Track **inventory across multiple locations**
